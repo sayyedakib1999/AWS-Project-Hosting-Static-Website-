@@ -1,0 +1,7 @@
+# Hosting A Web Site Using Route53 & S3 Bucket
+
+## Steps To Create/Host Static Website With Custom Domain
+
+- Create Aa custom Domain name using Amazon Route53.
+- Use Amazon Bucket to host the sample website.
+- Enable static website hosting & direct the Domain to S3 Bucket
